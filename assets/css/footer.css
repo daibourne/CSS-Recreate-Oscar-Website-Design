@@ -1,0 +1,33 @@
+.footer {
+    background-color: black;
+}
+
+.logo, h2, i {
+    color: aliceblue;
+}
+
+h3{
+    color: aliceblue;
+}
+
+h4 {
+    color: aliceblue;
+}
+
+a {
+    color: grey;
+}
+
+.directory {
+    display: inline-flex;
+    margin: 20px;
+    
+}
+
+.links {
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+
+}
+
